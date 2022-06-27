@@ -1,15 +1,3 @@
 # Trybe Futebol Clube
 
-Repository for backup of trybe-futebol-club
-
-### Tecnologias utilizadas
-
-- Docker
-- Node.js
-- TypeScript
-- Express.js
-- Sequelize
-- MySQL
-- Jest
-- Mocha, Chai and Sinon
-- JWT
+Repository for backup of [trybe-futebol-club](https://github.com/felipemalli/trybe-futebol-club).
